@@ -1,0 +1,25 @@
+body {
+    background-color: antiquewhite;
+    font-family: Verdana, 'PT Sans', Times, serif;
+    font-size: x-large;
+    background-image:url(/img/Rect\ Light2.svg);
+    text-align: center;
+}
+
+table {
+    border: solid rgb(51, 111, 201);
+}
+
+thead {
+    background-color: black;
+    color: rgb(23, 114, 212);
+}
+
+tbody {
+    color: rgb(255, 255, 255);
+}
+
+tfoot {
+    background-color: rgb(249, 249, 246);
+    color: rgb(0, 6, 4);
+}

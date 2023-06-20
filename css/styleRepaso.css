@@ -1,0 +1,35 @@
+body {
+    background-image: url(/img/Rect\ Light2.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: larger;
+    font-family: Verdana, 'PT Sans', Times, serif;
+}
+
+h2 {
+    padding-left: 40%;
+    text-shadow: 3px 3px 4px rgba(9, 167, 206, 0.5), 0 0 0.5em rgb(44, 50, 126);
+    text-decoration: underline;
+}
+
+h3 {
+    text-shadow: 3px 3px 4px rgba(9, 167, 206, 0.5), 0 0 0.5em rgb(44, 50, 126);
+    text-decoration: underline;
+}
+
+caption, th {
+    text-shadow: 3px 3px 4px rgba(9, 167, 206, 0.5), 0 0 0.5em rgb(44, 50, 126);
+    text-decoration: underline;
+}
+
+table {
+    border: solid rgb(11, 128, 218);
+    font-size: x-large;
+    font-family: Verdana, 'PT Sans', Times, serif;
+}
+
+ul, footer {
+    font-size: larger;
+    font-family: Verdana, 'PT Sans', Times, serif;
+}
